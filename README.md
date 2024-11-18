@@ -9,7 +9,7 @@ This project will focus on answering the following questions in order to give th
 3. How does the language used in these speeches change over time, and are their noticeable patterns?
 4. Are there major differences in the speeches given between presidents of the two different political parties.
 
-![text](https://github.com/zberman1234/NLP-State-of-the-Union/blob/master/sentiment.png "SotU Sentiment Analysis")
+![text](https://github.com/zberman1234/NLP-State-of-the-Union/blob/main/sentiment.png "SotU Sentiment Analysis")
 
 ## Dependencies
 
