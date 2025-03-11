@@ -9,7 +9,7 @@ Here were my guiding questions:
 3. How has the language of these speeches evolved over time, and are there discernible patterns?
 4. Are there significant differences between the speeches of presidents from the two major political parties?
 
-Follow my results ![here](https://github.com/zberman1234/Presidential-NLP/blob/main/NLP_State_of_the_Union_Analysis.ipynb)
+Follow my results [here](https://github.com/zberman1234/Presidential-NLP/blob/main/NLP_State_of_the_Union_Analysis.ipynb)
 
 ![text](https://github.com/zberman1234/NLP-State-of-the-Union/blob/main/sentiment.png "SotU Sentiment Analysis")
 
